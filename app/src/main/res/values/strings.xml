@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PokeDex</string>
+    <string name="base_url">https://pokeapi.co/api/v2/</string>
+    <string name="image_url">https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/</string>
+    <string name="weight">Weight</string>
+    <string name="Height">Height</string>
+</resources>
